@@ -16,6 +16,9 @@ This is a simple React application that allows you to enter text and perform var
    git clone <repository-url>
    ```
 
+
+
+
 2. **Navigate to the project directory:**
 
 3. **Install the required dependencies:**
@@ -57,6 +60,7 @@ This is a simple React application that allows you to enter text and perform var
 ## Screenshots
 
 ![Screenshot](Screenshot.png)
+![Demo](https://github.com/Ishirastogi/Text-Transform-Utils/assets/137077186/3c2c6c35-9f4c-495f-a72d-34d43adf4b81)
 
 ## Author
 
