@@ -18,10 +18,6 @@ This is a simple React application that allows you to enter text and perform var
 
 2. **Navigate to the project directory:**
 
-   ```shell
-   cd text-manipulation-app
-   ```
-
 3. **Install the required dependencies:**
 
    ```shell
@@ -60,12 +56,8 @@ This is a simple React application that allows you to enter text and perform var
 
 ## Screenshots
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 ## Author
 
-[Your Name]
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+Ishi Rastogi
