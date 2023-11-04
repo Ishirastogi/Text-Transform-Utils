@@ -23,8 +23,8 @@ const handleClearClick=()=>{
  props.showAlert("text cleard", "success")
 }
  const handleExtraSpace=()=>{
-   let newText= text.split(/[]+/);
-   setText(newText.join(""))
+   let newText= text.replace(/\s+/g, ' ');
+   setText(newText)
    props.showAlert("Handle extra spaces", "success")
  }
 
